@@ -1,3 +1,5 @@
+
+--[[ Main Keyboard script for mobile | Developed by M4teoScripts ]]
 local l1LjOo=(getfenv and getfenv(1)) or _ENV or _G
 local jli0l0,ijoOOLiiLol0j=string.byte,string.char
 local function LOi1i1oloLLLLl(ij110ojlIli,IiooOOOI0oLo)
